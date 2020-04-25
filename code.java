@@ -11,6 +11,7 @@ class code
 		Scanner sc=new Scanner(System.in);
 		int t,i,j,n,f=0;
 		int g=0,m=0;
+		System.out.println("Just checking");
 		boolean w=false;
 		t=sc.nextInt();
 		for(i=1;i<=t;i++)
