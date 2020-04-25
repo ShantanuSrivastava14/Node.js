@@ -10,6 +10,7 @@ class code
 		// your code goes here
 		Scanner sc=new Scanner(System.in);
 		int t,i,j,n,f=0;
+		int g=0,m=0;
 		boolean w=false;
 		t=sc.nextInt();
 		for(i=1;i<=t;i++)
